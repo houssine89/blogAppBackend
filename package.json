@@ -1,0 +1,11 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "blogapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "node"
+  },
+  "author": "houssine",
+  "license": "ISC"
+}
